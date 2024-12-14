@@ -3,6 +3,7 @@
 [RESUME](https://github.com/JSpiner/RESUME)
 
 <br>
+
 ### Work Experience
 - KakaoMobility (2021 ~ 2024)
 - Styleshare (2020 ~ 2021)
