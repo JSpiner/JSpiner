@@ -2,15 +2,11 @@
 
 [RESUME](https://github.com/JSpiner/RESUME)
 
-<br>
-
 ### Work Experience
 - KakaoMobility (2021 ~ 2024)
 - Styleshare (2020 ~ 2021)
 - Ridi (2018 ~ 2020)
 - PRNDCompany (2017 ~ 2018)
-
-<br/>
 
 ### Contribute
 - [airbnb/mavericks #712](https://github.com/airbnb/mavericks/pull/712) : Custom Scope의 ViewModel을 생성할수 없는 버그 수정
