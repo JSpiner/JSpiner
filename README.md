@@ -9,6 +9,7 @@
 - PRNDCompany (2017 ~ 2018)
 
 ### Contribute
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose/pull/638) : state 오인 사용성이 있는 함수 deprecate 및 개선된 신규 함수 추가.
 - [airbnb/mavericks #712](https://github.com/airbnb/mavericks/pull/712) : Custom Scope의 ViewModel을 생성할수 없는 버그 수정
 - [Adambl4/mirakle #111](https://github.com/Adambl4/mirakle/pull/113) : 안드로이드 리모트 빌드 환경에서 ssh args에 대한 quote 버그 수정 
 - [Sonatype/nexus directjengine #21](https://github.com/sonatype/directjngine/pull/21) : Nexus repo 사용시 파일 경로가 꼬이는 버그 수정 
