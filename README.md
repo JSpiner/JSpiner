@@ -3,6 +3,7 @@
 [RESUME](https://github.com/JSpiner/RESUME)
 
 ### Work Experience
+- Now : Looking for a job.
 - KakaoMobility (2021 ~ 2024)
 - Styleshare (2020 ~ 2021)
 - Ridi (2018 ~ 2020)
