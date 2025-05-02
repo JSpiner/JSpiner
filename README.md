@@ -3,7 +3,7 @@
 [RESUME](https://github.com/JSpiner/RESUME)
 
 ### Work Experience
-- Now : Looking for a job.
+- Daangn : (2025 ~ 지금)
 - KakaoMobility (2021 ~ 2024)
 - Styleshare (2020 ~ 2021)
 - Ridi (2018 ~ 2020)
